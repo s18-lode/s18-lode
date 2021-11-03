@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @s18-lode
+- 👋 Hi, I’m shweta lode
 - 👀 I’m interested in full stack Web development.
-- 🌱 I’m currently learning this course.
+- 🌱 I have completed MERN stack development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lodeshweta@gmail.com
 
