@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shweta lode
-- 👀 I’m interested in full stack Web development.
+- 👀 I’m interested in frontend development.
 - 🌱 I have completed MERN stack development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lodeshweta@gmail.com
